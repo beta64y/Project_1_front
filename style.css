@@ -29,7 +29,7 @@
     
 }
 .headerfirstdivotherlinks:hover{
-    
+    font-size: 140%;
 }
 .headerseconddiv{   
     text-align: center;
@@ -98,7 +98,14 @@
 }
 .portfolio{
     height: 50rem;
+    background-color: #f8f9fa;
 }
+
+
+
+
+
+
 .team{
     height: 50rem;
 }
